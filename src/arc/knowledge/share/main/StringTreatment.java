@@ -55,7 +55,7 @@ public class StringTreatment {
 		System.out.println(key40 == key60);//false
 		System.out.println(key50 == key60);//false
 		System.out.println(key60 == key70);//false
-		Thread.sleep(120000);
+		
 	}
 
 }
